@@ -13,6 +13,9 @@
 - 内网渗透
 - Web 渗透
 
+## 随笔
+https://github.com/allennic/allennic.github.io/issues
+
 
 ## Github stats & metrics
 ![allennic's github stats](https://github-readme-stats.vercel.app/api?username=allennic&count_private=true&show_icons=true)
