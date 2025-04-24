@@ -1,13 +1,17 @@
 ## About Me
 
-- Blue team
-- Interested in SOAR
+- Security automation operations
+- Malware, Trojan analysis
+- AD penetration
+- Web penetration
 
 
 ## 关于我
 
-- 安全运营
-- 自动编排-爱好者
+- 安全自动化运营
+- 恶意样本分析
+- 内网渗透
+- Web 渗透
 
 
 ## Github stats & metrics
